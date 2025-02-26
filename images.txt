@@ -6,4 +6,3 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 provectuslabs/kafka-ui
 truthhun/elasticsearch:6.2.4.ik
-truthhun/elasticsearch
